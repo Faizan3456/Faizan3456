@@ -1,6 +1,6 @@
 # Hi, I'm Faizan 👋
 
-DevOps Engineer building hands-on experience with cloud infrastructure, automation, and open source contributions.
+Application Support Engineer building hands-on experience with cloud infrastructure, automation, and open source contributions.
 
 ---
 
