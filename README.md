@@ -29,6 +29,7 @@ Application Support Engineer building hands-on experience with cloud infrastruct
 
 | Project | Description | Tech |
 |---|---|---|
+| [euc-device-management-lab](https://github.com/Faizan3456/euc-device-management-lab) | Hands-on EUC/device management lab — Intune, Apple Business Manager, Windows Autopilot, Conditional Access | Intune, Entra ID, PowerShell |
 | [My_Projects](https://github.com/Faizan3456/My_Projects) | Central portfolio documenting all my DevOps projects | — |
 | [UK-Job-Agent](https://github.com/Faizan3456/UK-Job-Agent) | Autonomous LinkedIn job application bot for UK visa sponsorship roles | Python, Claude AI |
 | [aws-ec2-cicd-website](https://github.com/Faizan3456/aws-ec2-cicd-website) | CI/CD pipeline deploying a static website to AWS EC2 via GitHub Actions | HTML, GitHub Actions, AWS |
